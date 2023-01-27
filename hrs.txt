@@ -1,0 +1,5 @@
+1,2,3,80(20+60),no accion
+2,18,2,220(180+40),no accion
+2,18,2,220(180+40),no accion
+43,2,1,40(20+20),BAJA INMEDIATA
+32,3,1,50(30+20),BAJA INMEDIATA

@@ -1,0 +1,10 @@
+1,marisco (?),9999,postre
+2,El vacio,3,carne
+3,"EL CUBO",213,postre
+4,Ensalada en forma de,32,pescado
+5,manzana... yes,75,aperitivo
+6,p i r a m i d e,23,carne
+7,roca en forma de pastel,65,aperitivo
+8,carne vampiro,43,carne
+9,carne del lunes,23,postre
+10,si,432,aperitivo
